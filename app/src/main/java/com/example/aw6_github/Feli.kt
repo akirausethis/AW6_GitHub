@@ -33,7 +33,7 @@ class Feli : ComponentActivity() {
 @Composable
 fun Greeting4(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name!",
+        text = "Hai Bang",
         modifier = modifier
     )
 }

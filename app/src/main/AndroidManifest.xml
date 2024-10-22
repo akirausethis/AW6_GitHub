@@ -13,6 +13,11 @@
         android:theme="@style/Theme.AW6_GitHub"
         tools:targetApi="31">
         <activity
+            android:name=".AW6_Github"
+            android:exported="false"
+            android:label="@string/title_activity_aw6_github"
+            android:theme="@style/Theme.AW6_GitHub" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
